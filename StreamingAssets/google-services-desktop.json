@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8912124208",
+    "project_id": "greedy-cat-93035",
+    "storage_bucket": "greedy-cat-93035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8912124208:android:2646225e34d6976cb3b0f5",
+        "android_client_info": {
+          "package_name": "com.greedy.cat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8912124208-ut1j9qg30d9qt28n6ngurmtdh78sels6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb7O-KwF6KsofbLv5A1kK5DP396gpUFzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8912124208-ut1j9qg30d9qt28n6ngurmtdh78sels6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
